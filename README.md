@@ -5,3 +5,4 @@ genuine problems that I would like to solve
 #### 2.Improve Search results/contextual searches on social media: Reddit,Twitter,etc.
 #### 3.Decentralize Corporate employees years of experience/knowledge with the techies/indie hackers , decentralize the pmf secrets so that people can build better smarter companies/technology .
 #### 4.Allow two or more accounts to login into any service (parallel auths ?)
+#### 5.Cursor for Excel sheets, other word utilities.
